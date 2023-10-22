@@ -1,12 +1,3 @@
-#############################################################
-# FILE : ex11.py
-# WRITER : Noga_Friedman , nogafri , 209010479
-# Exercise: ex11
-# DESCRIPTION: trees
-# STUDENTS I DISCUSSED THE EXERCISE WITH: -
-# WEB PAGES I USED: -
-#############################################################
-
 import itertools
 
 
